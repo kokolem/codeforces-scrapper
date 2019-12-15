@@ -9,6 +9,7 @@ def print_usage():
     print("Usage:")
     print("--handle [user handle] – directly enter the handle of the user whose data you want to get")
     print("--no-gui – print the user data to terminal instead of creating a GUI to show them")
+    print("--help – show this help")
 
 
 # try getting user from codeforces api
