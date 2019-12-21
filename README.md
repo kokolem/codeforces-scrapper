@@ -1,5 +1,14 @@
-# Codeforces Scrapper
-A script to get user data from Codeforces
+<h1 align="center">Codeforces Scrapper</h1>
+
+<div align="center">
+  
+  A script to get user data from Codeforces
+  
+  ![GitHub](https://img.shields.io/github/license/kokolem/codeforces-scrapper)
+  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kokolem/codeforces-scrapper)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/kokolem/codeforces-scrapper)
+  
+</div>
 
 ## Usage
 The script can be run with the following arguments:
