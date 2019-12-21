@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  A script to get user data from Codeforces
+  Script to get user data from Codeforces.
   
   ![GitHub](https://img.shields.io/github/license/kokolem/codeforces-scrapper)
   ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kokolem/codeforces-scrapper)
