@@ -7,6 +7,7 @@
   ![GitHub](https://img.shields.io/github/license/kokolem/codeforces-scrapper)
   ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kokolem/codeforces-scrapper)
   ![GitHub last commit](https://img.shields.io/github/last-commit/kokolem/codeforces-scrapper)
+  ![Support <3](https://kokolem.github.io/LGBT-friendly-rainbow.svg)
   
 </div>
 
